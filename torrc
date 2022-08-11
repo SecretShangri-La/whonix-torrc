@@ -1,0 +1,9 @@
+# Defalut
+ExcludeNodes {jp},{us},{gb},{au},{ca},{nz},{nl},{dk},{no},{fr},{it},{se},{es},{de},{be},{cn},{ru},{hk},{tw},{vn},{il},{cn},SlowServer,plithismos,BeFreeInterwebs,onjbsd,soltor0,GuruKopi,criticalcat,TERRAHOSTrocks,Hydra21,frantz,roTor,kyu,$A168A697235E5E37EF1584CE1DB3FCE993A7383F,mccorkle,norcal,nope,NowDNSa,TERRAHOSTrocks
+
+NumEntryGuards 15
+CircuitBuildTimeout 30
+NewCircuitPeriod 20
+MaxCircuitDirtiness 15
+StrictNodes 1
+ExitRelay 0
